@@ -1,0 +1,6 @@
+*.user
+*.user.*
+*.o
+*.dll
+*.so
+*.a
